@@ -1,6 +1,6 @@
 # Logistic-Regression-Machine-Learning-Model
 
-Project objectives: 
+Project objectives:  
 
 1-It will work with the Heart Attack dataset.
 
